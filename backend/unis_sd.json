@@ -1,0 +1,21 @@
+[
+  {"name":"山东大学","city":"济南","level":"985/211","type":"综合","is_985":true,"is_211":true,"min_score":620,"avg_score":640,"description":"山东省最好的综合性大学，化学工程专业实力雄厚。"},
+  {"name":"中国海洋大学","city":"青岛","level":"985/211","type":"理工","is_985":true,"is_211":true,"min_score":600,"avg_score":615,"description":"海洋科学见长，化工专业也不错。"},
+  {"name":"哈尔滨工业大学(威海)","city":"威海","level":"985/211","type":"理工","is_985":true,"is_211":true,"min_score":610,"avg_score":625,"description":"哈工大威海校区，工科实力强。"},
+  {"name":"山东师范大学","city":"济南","level":"省重点","type":"师范","is_985":false,"is_211":false,"min_score":540,"avg_score":555,"description":"山东省最好的师范大学，化学专业是优势学科。"},
+  {"name":"齐鲁工业大学","city":"济南","level":"一本","type":"理工","is_985":false,"is_211":false,"min_score":510,"avg_score":525,"description":"原山东轻工业学院，化工与制药是王牌专业，山东省重点建设高校。"},
+  {"name":"山东科技大学","city":"青岛","level":"一本","type":"理工","is_985":false,"is_211":false,"min_score":530,"avg_score":548,"description":"青岛校区，化工和材料类专业较好，就业率在省内靠前。"},
+  {"name":"青岛科技大学","city":"青岛","level":"一本","type":"理工","is_985":false,"is_211":false,"min_score":525,"avg_score":540,"description":"原化工部直属高校，高分子材料、橡胶工程是传统优势，化工专业就业极好。"},
+  {"name":"济南大学","city":"济南","level":"一本","type":"综合","is_985":false,"is_211":false,"min_score":520,"avg_score":535,"description":"化工与制药、材料专业较强，济南本地认可度高。"},
+  {"name":"青岛理工大学","city":"青岛","level":"一本","type":"理工","is_985":false,"is_211":false,"min_score":520,"avg_score":535,"description":"土木、建筑为王牌，化工类专业也不错。"},
+  {"name":"山东理工大学","city":"淄博","level":"一本/二本","type":"理工","is_985":false,"is_211":false,"min_score":490,"avg_score":505,"description":"农业工程见长，化学工程也可报考，性价比较高。"},
+  {"name":"烟台大学","city":"烟台","level":"一本/二本","type":"综合","is_985":false,"is_211":false,"min_score":505,"avg_score":520,"description":"环境优美，法学较强，化工专业有硕士点。"},
+  {"name":"山东建筑大学","city":"济南","level":"一本/二本","type":"理工","is_985":false,"is_211":false,"min_score":505,"avg_score":518,"description":"建筑老牌高校，化工与材料也可报考，济南就业好。"},
+  {"name":"青岛农业大学","city":"青岛","level":"二本","type":"农林","is_985":false,"is_211":false,"min_score":480,"avg_score":495,"description":"农业化学是特色，农药学方向就业稳定。"},
+  {"name":"聊城大学","city":"聊城","level":"二本","type":"综合","is_985":false,"is_211":false,"min_score":475,"avg_score":490,"description":"聊城唯一本科，化学专业有特色，录取分数较低。"},
+  {"name":"山东农业大学","city":"泰安","level":"一本/二本","type":"农林","is_985":false,"is_211":false,"min_score":480,"avg_score":498,"description":"农业化学强势，农药、肥料方向有特色，就业稳定。"},
+  {"name":"滨州医学院","city":"滨州","level":"二本","type":"医药","is_985":false,"is_211":false,"min_score":475,"avg_score":488,"description":"临床、药学方向，化工关联专业可报考。"},
+  {"name":"德州学院","city":"德州","level":"二本","type":"综合","is_985":false,"is_211":false,"min_score":460,"avg_score":472,"description":"聊城周边，化学师范方向，录取分数低。"},
+  {"name":"菏泽学院","city":"菏泽","level":"二本","type":"综合","is_985":false,"is_211":false,"min_score":455,"avg_score":468,"description":"化学专业有本科培养，录取分数较低。"},
+  {"name":"枣庄学院","city":"枣庄","level":"二本","type":"综合","is_985":false,"is_211":false,"min_score":458,"avg_score":470,"description":"化学方向，录取分低，适合保底。"}
+]

@@ -1,0 +1,17 @@
+com\example\gaokao\controller\AiConfigController$CloudConfig.class
+com\example\gaokao\entity\University.class
+com\example\gaokao\controller\GaokaoAiController.class
+com\example\gaokao\controller\AiConfigController$AiConfig.class
+com\example\gaokao\dto\AiResponse$Usage.class
+com\example\gaokao\controller\HomeController.class
+com\example\gaokao\dto\AiRequest$Message.class
+com\example\gaokao\dto\AiResponse$Choice.class
+com\example\gaokao\dto\AiResponse.class
+com\example\gaokao\controller\AiConfigController$OllamaConfig.class
+com\example\gaokao\entity\Major.class
+com\example\gaokao\controller\AiConfigController.class
+com\example\gaokao\GaokaoAdvisorApplication.class
+com\example\gaokao\config\AiConfig.class
+com\example\gaokao\dto\AiRequest.class
+com\example\gaokao\dto\AiResponse$Message.class
+com\example\gaokao\service\GaokaoAiService.class

@@ -1,0 +1,1 @@
+{"provider":"ollama","ollama":{"baseUrl":"http://localhost:11434/v1","model":"qwen3:8b"},"cloud":{"provider":"deepseek","apiKey":"sk-111111111111111111111","baseUrl":"https://api.deepseek.com/v1","model":"deepseek-chat"}}
